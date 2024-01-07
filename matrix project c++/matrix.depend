@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654185667 source:c:\watermelom\matrix\matrix.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+
